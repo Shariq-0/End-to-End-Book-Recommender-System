@@ -1,6 +1,6 @@
 import os 
 import sys
-import urllib
+import urllib.request
 import zipfile
 from book_recommender.logger.log import logging
 from book_recommender.exception.exception_handler import AppException
