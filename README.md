@@ -98,13 +98,13 @@ docker login
 ```
 
 ```bash
-docker push entbappy/stapp:latest 
+docker push Shariq-0/bookapp:latest 
 ```
 
 ```bash
-docker rmi entbappy/stapp:latest
+docker rmi Shariq-0/bookapp:latest
 ```
 
 ```bash
-docker pull entbappy/stapp
+docker pull Shariq-0/bookapp
 ```
