@@ -80,3 +80,7 @@ class DataValidation:
             logging.info(f"{'='*20}Data Validation log completed.{'='*20} \n\n")
         except Exception as e:
             raise AppException(e, sys) from e
+
+
+
+    
