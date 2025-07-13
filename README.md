@@ -70,7 +70,7 @@ git clone "your-project"
 ```
 
 ```bash
-docker build -t entbappy/stapp:latest . 
+docker build -t Shariq-0/bookapp:latest . 
 ```
 
 ```bash
@@ -78,7 +78,7 @@ docker images -a
 ```
 
 ```bash
-docker run -d -p 8501:8501 entbappy/stapp 
+docker run -d -p 8501:8501 Shariq-0/bookapp 
 ```
 
 ```bash
